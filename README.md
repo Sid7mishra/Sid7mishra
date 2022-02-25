@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sid7mishra
+- 👀 I’m interested in Python & Java
+- 💞️ I’m looking to collaborate on AI and Data Science projects
+- 📫 How to reach me at siddharth.07102002@gmail.com
